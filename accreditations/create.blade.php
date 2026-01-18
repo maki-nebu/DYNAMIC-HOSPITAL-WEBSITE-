@@ -153,3 +153,4 @@
 <script src="/Smart/Admin/assets/plugins/bootstrap-select/js/bootstrap-select.js"></script>
 @stop
 @endsection
+
