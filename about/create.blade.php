@@ -43,7 +43,7 @@
                             <small class="text-muted">Paste the full YouTube link here</small>
                         </div>
 
-                        <!-- Image field for Milestone or Description -->
+                        <!-- Image field for  or Description -->
                         <div class="form-group" id="image-field" style="display: none;">
                             <label for="image">Upload Image</label>
                             <input type="file" name="image" class="form-control" accept="image/*">
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     typeSelect.addEventListener('change', toggleFields);
-    toggleFields(); // run on page load
+    toggleFields(); 
 });
 </script>
 @endsection
